@@ -1,0 +1,1 @@
+Salve aqui as capturas de tela reais da aplicação executando localmente: 01-home.png, 02-login.png, 03-cadastro-skin.png e 04-listagem-skins.png. Use Win + Shift + S com o navegador maximizado.
